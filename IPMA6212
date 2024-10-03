@@ -1,0 +1,31 @@
+Issue Name	                                  Assignees	               Labels	               Projects	                 Milestones
+Create Project Charter                    	Project Manager            Planning	           Mobile App Security        Initial Setup
+Identify Stakeholders	                      Project Manager            Planning	           Mobile App Security        Initial Setup
+Develop Scope Statement	                    Business Analyst	         Planning	           Mobile App Security        Initial Setup
+Set Up Project Repository	                  IT Specialist	             Setup	             Mobile App Security        Initial Setup
+Kick-off Meeting	                          Project Manager            Meeting	           Mobile App Security        Initial Setup
+Develop Work Breakdown Structure (WBS)	    Project Manager	           Planning	           Mobile App Security        Initial Setup
+Create Project Schedule	                    Project Manager            Planning	           Mobile App Security        Initial Setup
+Estimate Costs	                            Financial Analyst	         Budgeting	         Mobile App Security        Initial Setup
+Identify Risks and Develop Risk Management  Plan	Risk Manager	       Risk Management	   Mobile App Security        Initial Setup
+Develop Communication Plan	                Project Manager	           Communication	     Mobile App Security        Initial Setup
+Present Project Plan to Stakeholders	      Project Manager	           Communication	     Mobile App Security        Initial Setup
+Finalize Project Plan	                      Project Manager            Planning	           Mobile App Security        Initial Setup
+UI/UX Design	                              Designer	                 Design	             Mobile App Security        Design Phase
+Develop Wireframes	                        Designer	                 Design	             Mobile App Security        Design Phase
+Get Stakeholder Approval on Design	        Project Manager	           Approval	           Mobile App Security        Design Phase
+Create Detailed Specifications for Developers	Business Analyst	       Documentation	     Mobile App Security        Design Phase
+Design Review Meeting	                      Project Manager	           Meeting             Mobile App Security        Design Phase
+Set Up Development Environment	            Developer	                 Setup	             Mobile App Security        Development Phase
+Develop Neighbourhood Watch Feature	        Developer	                 Development	       Mobile App Security        Development Phase
+Develop SOS Button Feature	                Developer	                 Development	       Mobile App Security        Development Phase
+Develop Community Bulletin Board	          Developer	                 Development	       Mobile App Security        Development Phase
+Integrate Anonymous Crime Reporting	        Developer	                 Development	       Mobile App Security        Development Phase
+Implement Secure Home Recommendations       Feature	Developer          Development	       Mobile App Security	      Development Phase
+Internal Testing of Features	              QA Tester	                 Testing	           Mobile App Security        Testing Phase
+User Testing	                              QA Tester	                 Testing	           Mobile App Security        Testing Phase
+Bug Fixing and Improvements	                Developer	                 Bug Fix	           Mobile App Security        Testing Phase
+Final App Testing (Android & iOS)	          QA Tester	                 Testing	           Mobile App Security        Testing Phase
+Prepare for App Store Deployment	          IT Specialist	             Deployment	         Mobile App Security	      Deployment Phase
+Deploy App to App Stores	                  IT Specialist	             Deployment	         Mobile App Security	      Deployment Phase
+Post-Launch Monitoring	                    Project Manager	           Monitoring	         Mobile App Security	      Post-Launch
